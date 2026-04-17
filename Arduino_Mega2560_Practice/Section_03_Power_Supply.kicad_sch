@@ -1,7 +1,8 @@
 (kicad_sch
-	(version 20231120)
-	(generator "kicad_symbol_editor")
-	(generator_version "9.0")
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "53b227f5-2dfd-43e0-911c-e0b86fc6f24a")
 	(paper "A4")
 	(title_block
 		(title "Section 03: Power Supply")
@@ -17,4 +18,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
